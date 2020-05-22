@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "395818874463",
+    "firebase_url": "https://androidauthentication-4f351.firebaseio.com",
+    "project_id": "androidauthentication-4f351",
+    "storage_bucket": "androidauthentication-4f351.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395818874463:android:e2c89d3671396f359e8dea",
+        "android_client_info": {
+          "package_name": "com.example.shualeduri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "395818874463-qerjk7atqll09i5elul38htilreu102d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shualeduri",
+            "certificate_hash": "91a04d7793f53cec3ba8ae4658dfddb4e405e66a"
+          }
+        },
+        {
+          "client_id": "395818874463-5af2n46qbobe84b17jvef84kqvv8h8vh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxH9mNDTkfW1rbWabvKkvoCaZrW550L8c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "395818874463-5af2n46qbobe84b17jvef84kqvv8h8vh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
